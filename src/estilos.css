@@ -286,7 +286,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #5e5b9e), url("images/AL221.jpg") no-repeat center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #5e5b9e), url("AL221.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
